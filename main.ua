@@ -1,1 +1,4 @@
-+⊃+₁×₂ [1 2 3]
+Input  ← "hello.txt"
+Output ← ¯⊂"out_"Input
+⍜°utf₈¯ &frab Input
+&fwa Output
